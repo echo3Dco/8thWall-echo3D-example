@@ -1,0 +1,3 @@
+* For this project, add `<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>` to head.html to enable jquery.
+* Upload Clouds.png and lego.jpg into the 8th Wall console and check "Load Automatically" before running this project. Rename the image targets in the 8th Wall console to include the file extension.
+* Add models to the echoAR console specifying one of those two images as the image target.
