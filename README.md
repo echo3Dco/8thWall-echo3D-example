@@ -1,5 +1,5 @@
-# 8th-Wall-echoAR-demo
-Demo that integrates echo3D with 8th Wall examples.
+# 8thWall-echo3D-example
+Exapmle code that integrates echo3D with 8th Wall examples.
 
 ## Register
 Don't have an API key? Make sure to register for FREE at [echo3D](https://console.echo3D.co/#/auth/register).
