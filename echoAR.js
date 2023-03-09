@@ -2,7 +2,7 @@ export class echoAR {
   
     constructor(apiKey) {
       this.models = new Map()
-      this.serverURL = "https://console.echoar.xyz/query?key=" + apiKey
+      this.serverURL = "https://api.echo3d.com/query?key=" + apiKey
       this.loader = new THREE.GLTFLoader()
     }
     
